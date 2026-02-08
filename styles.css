@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(135deg, #ff7f50, #ff6b6b);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.btn-primary {
+    background-color: #ff7f50;
+    border-color: #ff7f50;
+    color: #fff;
+}
+
+.form-control {
+    color: #333;
+}
+
+.modal-content {
+    background-color: #fff;
+}
+
+.modal-title {
+    color: #333;
+}
+
+.modal-footer {
+    background-color: #fff;
+}
+
+.modal-footer button {
+    color: #333;
+}
